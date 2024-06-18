@@ -1,1 +1,2 @@
-web: gunicorn run:app --bind
+web: python run.py
+
